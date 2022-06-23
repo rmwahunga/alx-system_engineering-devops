@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "StaraWars IV episode"
+telnet towel.blinkenlights.nl
