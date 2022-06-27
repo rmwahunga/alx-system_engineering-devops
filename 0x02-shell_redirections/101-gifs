@@ -1,0 +1,2 @@
+#!/bin/bash
+ind $directory -type f -iname '*.gif'
