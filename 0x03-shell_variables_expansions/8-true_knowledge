@@ -1,2 +1,3 @@
 #!/bin/bash
 sum='expr 128 + $TRUEKNOWLEDGE'
+echo sum
