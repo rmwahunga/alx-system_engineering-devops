@@ -1,3 +1,2 @@
 #!/bin/bash
- "(Ôo)' 
->1-confused_smiley
+printf "\"(Ôo)\'\n"
